@@ -18,8 +18,8 @@ public class Share {
     public static JFrame window;
     public static JPanel mainPanel;
     // true：ローカルIPアドレスでサーバーに接続
-    // false: グローバルIP (ダイナミックDNS) アドレスでサーバーに接続
-    public static final boolean DEBUG_MODE = true;
+    // false: グローバルIP (ダイナミックDNSのURL) アドレスでサーバーに接続
+    public static final boolean DEBUG_MODE = false;
 
     public static void init() {
         window = new JFrame("掲示板アプリ");
