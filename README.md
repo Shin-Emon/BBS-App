@@ -1,5 +1,5 @@
 # A simple BBS application
-This application is a simple BBS application that can insert and read only, so it cannot make planks, and upload images.
+This is a simple BBS application that can insert and read only, so it cannot make planks, and upload images.
 The application connects to my server that has MySQL database.
 
 # How to use
